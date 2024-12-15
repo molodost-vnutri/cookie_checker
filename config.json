@@ -1,0 +1,26 @@
+{
+    "proxy_path": null,
+    "proxy_type": "off",
+    "save_to": "sqlite",
+    "path": "database.db",
+    "threads": 1,
+    "services": [
+        {
+            "cookie_name": ["куки", "можно списком"],
+            "url": "https://example.com/",
+            "method": "get",
+            "validation_type": "text",
+            "validator": ["Значение при валиде", "можно списком"],
+            "headers": {
+                "header": "header"
+            },
+            "parse_data": [
+                {
+                    "name": "Название",
+                    "field_param": "html.parser",
+                    "field_parse": ["dt", "ipsDataItem_stats_number"]
+                }
+            ]
+        }
+    ]
+}

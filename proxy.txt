@@ -1,0 +1,2 @@
+http://example.com # proxy_type auto
+example.com # proxy_type any http/https/socks4/socks5
