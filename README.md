@@ -1,3 +1,5 @@
+![изображение](https://github.com/user-attachments/assets/d1b60d73-b17f-485a-a146-0eace932f263)
+
 # Документация
 
 ## Дисклеймер
