@@ -8,7 +8,7 @@ class Logo:
     version = "0.0.1"
     telegram = "@M0l0d0st_vnutri"
     forum = "https://zelenka.guru/members/3060240"
-    thread = "debug"
+    thread = "https://lolz.live/threads/8006553"
     github = "https://github.com/molodost-vnutri/cookie_checker"
 
     def __init__(self):
